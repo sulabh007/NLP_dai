@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>The result Page</title>
+    </head>
+    <body>
+        <h4>Your message: {{data['message']}}</h4>
+        {% if data['result'] == 'ham'%}
+            <h2 style='color:blue'>This is NOT a Spam message!</h2>
+        {% else %}
+            <h2 style='color:blue'>This is a Spam message!</h2>
+        {% endif %}
+
+    </body>
+</html>
