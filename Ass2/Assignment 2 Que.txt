@@ -1,0 +1,21 @@
+Assignment-2
+
+Q.1
+
+# Copy the data about the NASA from wikipedia and perform following:
+
+#1. Apply POS tagging on this data
+
+#2. Remove punctuation symbols
+
+#3. Delete the stopwords
+
+#4. Perform morphological analysis on all the nouns
+
+#5. Find top three words in the data
+
+Q.2
+
+#Open the wikipedia page of Pune
+
+#Find the adjectives used in the text
