@@ -1,0 +1,22 @@
+NLP 3rd Assignment
+
+Q.2
+
+
+# Open the wikipedia page https://en.wikipedia.org/wiki/Maharashtra
+
+#1. Apply chuncking and show the chunks of type <VBD><DT>
+
+#2. Find all the named entities present in article
+
+#3. Access all the verbs and apply the porter stemmer and lancaster stemmer
+
+#4. Access all the verbs in past tense and lemmatize them. Show only unique verbs.
+
+#5. Read only the adjectives from the text and find their synonyms.
+
+#6. Read all the verbs and print their antonyms.
+
+#7. Print all the entities marked as DATE and TIME in the data
+
+#8. Print all the named of locations present in the article.
