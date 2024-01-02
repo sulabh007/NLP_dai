@@ -1,0 +1,29 @@
+Assignment-1
+
+Q.1
+
+sent = 'They told that their ages are 23, 25 and 29 respectively.'
+
+#1. Find the average of ages.
+
+#2. Count total number of words starts with 't'/'T'
+
+#3. Count total punctuation symbols.
+
+#4. Print the words in capital letter which ends with 'd'
+
+#5. Merge all the words and print (no punctuations)
+
+Q.2
+
+# Open the wikipedia page of Indian flag and perform following analysis
+
+#Count total number of Words
+
+# Count percentage of punctuation marks
+
+#Print total number of lines
+
+#How many words are in title case?
+
+# Remove the numbers and print the text
